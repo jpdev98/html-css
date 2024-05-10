@@ -1,8 +1,11 @@
-# html-css
- Curso de HTML5 e CS3 do CursoemVideo
+# jpdev98.github.io
+<h1>Repositório público de João Pedro</h1>
 
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+Estou aprendendo a criar sites e agora vou gerenciar meus repositórios por aqui.
 
-<a href="https://jpdev98.github.io/html-css/exercicios/ex001/index.html" target="_blank">Executar o exercício 001</a>
+<h2>Site Android</h2>
+Durante as <strong>aulas de HTML e CSS3</strong>, aprendi a desenvolver este website fantástico, focado no conteúdo e no seu design. Toda a base começa sempre com essas tecnologias.
 
-<a href="https://jpdev98.github.io/projeto-android/#" target="_blank">Executar o site Android</a>
+<ul>
+<li><a href="https://jpdev98.github.io/projeto-android/#" target="_blank">Executar o site Android clicando aqui</a></li>
+</ul>
